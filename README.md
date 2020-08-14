@@ -3,4 +3,4 @@ The Nobel Prize is perhaps the world's most well known scientific award. Every y
 
 In this project, I got to explore patterns and trends in over 100 years worth of Nobel Prize winners. What characteristics do the prize winners have? Which country gets it most often? And has anybody gotten it twice?
 
-The dataset used in this project is from The Nobel Foundation on **Kaggle.
+The dataset used in this project is from The Nobel Foundation on **Kaggle.**
